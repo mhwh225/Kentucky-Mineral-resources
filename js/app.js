@@ -107,7 +107,7 @@
     Uranium: "darkgreen",
     Silica: "purple",
     Lead: "orange",
-    Tungsten: "yellow",
+    Tungsten: "violet",
     Manganese: "Teal",
     Graphite: "Olive",
     Titanium: "blue",
