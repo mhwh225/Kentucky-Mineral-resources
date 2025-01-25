@@ -2,11 +2,10 @@
 ## 1.	Your data source and (at least a sample of) the data required to meet the map's objectives. 
 https://tin.er.usgs.gov/mrds/ (sample in data folder)
 ## 2.	The map topic and geographic phenomena your map will explore.
-a.	What?: Mineral Resources
-b.	Where?: Kentucky
-c.	When?: all discovered As of 2011
+a.	What?: Mineral Resources.
+b.	Where?: Kentucky.
+c.	When?: all discovered As of 2011.
 d.	What is the tentative title of your project?: The distribution of Kentucky’s Mineral resources.
-Then, think about how this will be realized in the browser
 e.	Identify your anticipated methods of thematic representation methods (e.g., icons, choropleth, prop symbols, etc.): 
 i.	Font: open sans or lato
 ii.	Color: #fff with #000 border
