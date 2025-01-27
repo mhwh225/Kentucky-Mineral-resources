@@ -147,7 +147,8 @@
           // assemble string sequence of info for tooltip (end line break with + operator)
           let popup = `<b>${props["SITE_NAME"]}</b></br>
                 Production status: ${props["DEV_STAT"]}</br>
-                Main commodity: ${props["Commodity_commod"]}`;
+                Main commodity: ${props["Commodity_commod"]}</br>
+                More info: <a href=${props["URL"]}>Here</a>`;
           layer.bindPopup(popup);
         },
       }).addTo(map);

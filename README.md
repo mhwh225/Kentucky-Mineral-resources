@@ -10,7 +10,7 @@ e.	Identify your anticipated methods of thematic representation methods (e.g., i
 i.	Font: open sans or lato
 ii.	Color: #fff with #000 border
 iii.	Icon:  
-iv.	Map type: heat
+iv.	Map type: heat.
 f.	Briefly describe your anticipated user interface (UI): a title, an info section, a legend that serves as a checklist to enable and disable different mineral resources. 
 
 ## 3.	An articulation of the map's objectives and user needs: 
